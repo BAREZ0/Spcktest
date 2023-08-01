@@ -1,0 +1,289 @@
+{
+    "name": "SeeYouIOS",
+    "identifier": "app.SeeYouIOS.eisgn",
+    "sourceURL": "https://seeyouios.app/app.json",
+    "apps": [
+        {
+            "name": "Video star Pro",
+            "version": "10.8.3",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/videostarpro.png",
+            "downloadURL": "https://archive.org/download/kurd-source/videostarpro.kurd-source.ipa"
+        },
+{
+            "name": "App cake",
+            "version": "4.5.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/appcake.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/appcake.kurd-source.ipa"
+        },
+{
+            "name": "Messenger",
+            "version": "1.7.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/messenger.png",
+            "downloadURL": "https://archive.org/download/messenger.kurd-source/messenger.kurd-source.ipa"
+        },
+{
+            "name": "Tiktok unicron",
+            "version": "19.3.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/tiktok.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/tiktok.kurd-source.ipa"
+        },
+{
+            "name": "Unc0ver",
+            "version": "8.0.2",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/Unc0ver.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/uncover.kurd-sourcee.ipa"
+        },
+{
+            "name": "Simcity",
+            "version": "1.42.5",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/simcity.png",
+            "downloadURL": "https://archive.org/download/sim-city-1.42.5/SimCity%20%281.42.5%29.ipa"
+        },
+{
+            "name": "FilzaEscaped15",
+            "version": "3.7.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/filzaescaped.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/filzaescaped.kurd-source.ipa"
+        },
+{
+            "name": "Focos",
+            "version": "2.5.3",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/focos.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/focos.kurd-source.ipa"
+        },
+{
+            "name": "Gbox",
+            "version": "3.6.7",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/gbox.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/gbox.kurd-source.ipa"
+        },
+{
+            "name": "Hill Climb Racing",
+            "version": "1.49",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/hillclimb.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/hillclimb.kurd-source.ipa"
+        },
+{
+            "name": "Infltr",
+            "version": "6.9.1",
+            "versionDate": "2022-08-17T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/infltr.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Infltr.kurd-source.ipa"
+        },
+{
+            "name": "Inshot",
+            "version": "1.61.1",
+            "versionDate": "2022-08-18T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo/img/inshot.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/inShot.kurd-source.ipa"
+        },
+{
+            "name": "Cpu-X",
+            "version": "1.5.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/cpu-x.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/cpu-x.kurd-source.ipa"
+        },
+{
+            "name": "Cute cut",
+            "version": "1.8.10",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/cutecut.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/cutecut.kurd-source.ipa"
+        },
+{
+            "name": "Drift max pro",
+            "version": "7.4",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/driftmaxpro.png",
+            "downloadURL": "https://archive.org/download/drift-max-pro/Drift%20Max%20Pro.ipa"
+        },
+{
+            "name": "HDO Player",
+            "version": "7.4",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/hdoplayer.png",
+            "downloadURL": "https://archive.org/download/hdo-player-i-os-programs/HdoPlayer_iOS_Programs.ipa"
+        },
+{
+            "name": "Scarlet",
+            "version": "1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/scarlet.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Scarlet.kurd-source.ipa"
+        },
+{
+            "name": "Kinemaster",
+            "version": "5.2.11",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/kinemaster.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/KineMaster.kurd-source.ipa"
+        },
+{
+            "name": "Picsart",
+            "version": "2.1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/picsart.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/PicsArt.kurd-source.ipa"
+        },
+{
+            "name": "PPSSPP",
+            "version": "1.13.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/ppsspp.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/PPSSPP.kurd-source.ipa"
+        },
+{
+            "name": "Pythonista 3",
+            "version": "3.3",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/pythonista3.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/pythonista3.kurd-source.ipa"
+        },
+
+{
+            "name": "Truckers of europe",
+            "version": "3.0.26",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/truckersof.png",
+            "downloadURL": "https://archive.org/download/truckers-of-europe-3-0.26-ipa-fire/TruckersOfEurope3%200.26%20%28%40IPA%20Fire%29.ipa"
+        },
+{
+            "name": "Instagram Rocket",
+            "version": "248.0",
+            "versionDate": "2022-08-18T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/instagram.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Instagramrocket.kurd-source.ipa"
+        },
+{
+            "name": "ORG 2021",
+            "version": "2021",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainof.tk/img/org2021.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/org2021.kurd-source.ipa"
+        },
+{
+            "name": "Remini",
+            "version": "2.6.2",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/remini.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/remini.kurd-source.ipa"
+        },
+{
+            "name": "Shadowrocket",
+            "version": "2.2.9",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/shadowrocket.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/shadowrocket.kurd-source.ipa"
+        },
+{
+            "name": "Video Star",
+            "version": "8.3.2",
+            "versionDate": "2022-08-17T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/videostarpro.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/VideoStar.kurd-source.ipa"
+        },
+{
+            "name": "Minecraft",
+            "version": "1.19.21",
+            "versionDate": "2022-08-17T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/minecraft.png",
+            "downloadURL": "https://archive.org/download/minecraft-rcs-v-1.19.21/Minecraft%20-%20RCS%20%5Bv1.19.21%5D.ipa"
+        },
+{
+            "name": "FIFA Mobile",
+            "version": "16.0.1",
+            "versionDate": "2022-08-17T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/fifamobile.png",
+            "downloadURL": "https://archive.org/download/fifa-mobile-16.0.01-ipa-fire/FifaMobile%2016.0.01%20%28IPA%20Fire%29.ipa"
+        },
+{
+            "name": "Share it",
+            "version": "2.8.76",
+            "versionDate": "2022-08-17T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/shareitpro.png",
+            "downloadURL": "https://https://archive.org/download/shareit-pro-3bod-syr-v-2.8.76/SHAREitPro_3bod_syr_v2.8.76.ipa"
+        },
+
+{
+            "name": "Facebook wolf",
+            "version": "2.1.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/facebook.png",
+            "downloadURL": "https://cdn.kurd-source.tk/ipa/facebook.kurd-source.ipa"
+        },
+{
+            "name": "Lightroom",
+            "version": "7.5.0",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/lightroom.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Lightroom.kurd-source.ipa"
+        },
+{
+            "name": "Agar.io",
+            "version": "2.21.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/agario.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/Agar.io.kurd-source.ipa"
+        },
+{
+            "name": "Djay pro",
+            "version": "4.0.6",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://cydiainfo.tk/img/djaypro.png",
+            "downloadURL": "https://archive.org/download/kurd-s0urce/djay.kurd-source.ipa"
+        },
+        {
+            "name": "YoutubeDLEasy",
+            "version": "17.25.1",
+            "versionDate": "2022-07-11T19:00:00+08:00",
+            "versionDescription": "",
+            "iconURL": "https://app.kurd-source.com/img/youtube.png",
+            "downloadURL": "https://archive.org/download/youtubedleasy.kurd-source/youtubedleasy.kurd-source.ipa"
+        }
+    ]
+}
