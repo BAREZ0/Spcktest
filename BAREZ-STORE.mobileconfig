@@ -58,7 +58,7 @@ Official Channel</string>
      <key>Precomposed</key>
      <false/>
      <key>URL</key>
-     <string>http://barez-store.netlify.app</string>
+     <string>http://barezstore.netlify.app</string>
    </dict>
  </array>
  <key>PayloadDescription</key>
