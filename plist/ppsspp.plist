@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/ppsspp-1690022764/PPSSPP__1690022764.ipa</string>
+					<string>http://app.online-sign.vip/upload/2023-08-07/1-new-ipa-8c4c7d6a1f0c3b44f28538ffafe2021b.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://is.gd/rIx7VL</string>
+					<string>https://archive.org/download/img-4513_202308/IMG_4513.jpeg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://is.gd/rIx7VL</string>
+					<string>https://archive.org/download/img-4513_202308/IMG_4513.jpeg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.ppsspp.ppsspp12636336</string>
+				<string>org.bare.ppsspp12636336</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
@@ -42,13 +42,12 @@
 				<string>8Ball</string>
 				<key>title</key>
 				<string> 
+				
+				
 PPSSPP
-       
-تکایە لەسەر ئەکاونتی خۆت تاقی مەکەوە
        
 BAREZ STORE 📦
 
-"لەبوونی هەر کێشەیەک دەتوانی نامە بۆ چەنالی تیلیگرام بنێریت"
 Telegram : B4rezStoreVIP
 </string>
 			</dict>
