@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Pubg Mobile</title>
+  <title>PUBG LINUX</title>
 </head>
 <body>
   <div class="page">
@@ -9,7 +9,7 @@
       <div class="navbar-inner sliding">
  
         <div class="title">
-          Pubg Mobile
+          PUBG LINUX
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -45,8 +45,8 @@
      </div>
           </div>
             <center>
-  <img src="./img/pubg.png"  class="appicon elevation-5 animated zoomIn shadow" style="border-radius: 25%; height: 100px;width: 100px;">
-  <div style="font-size: 22px" class="white-color semibold">Pubg Mobile</div>
+  <img src="./img/linux.png"  class="appicon elevation-5 animated zoomIn shadow" style="border-radius: 25%; height: 100px;width: 100px;">
+  <div style="font-size: 22px" class="white-color semibold">PUBG LINUX</div>
   <div style="font-size: 16px; opacity: 0,57;" class="white-color semibold">Games</div>
           
                
@@ -68,7 +68,7 @@
         Download App
       </div>
                            <div class="item-title-row block block-strong inset elevation-12" style="justify-content: flex-end;">
-                            <a href="itms-services://?action=download-manifest&amp;url=https://www.seeyouios.store/plist/pubg.plist" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
+                            <a href="itms-services://?action=download-manifest&amp;url=http://barezstore.netlify.app/plist/pubg.plist" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
 <br>
                              
                  <a href="" class="button button-round button-fill button-raised color-lightblue external">IPA   <i class="icon f7-icons color-white">cloud_download_fill</i></a>
@@ -130,7 +130,7 @@
                     
                     					<li>
                         
-                        				<a onclick="location='https://t.me/B4rezStore'" class="item-link item-content">
+                        				<a onclick="location='https://t.me/B4rezStoreVIP'" class="item-link item-content">
 													<div class="item-media"><i class="icon f7-icons color-blue">paper_plane_fill</i></div>
 													<div class="item-inner">
 														<div class="item-title-row">
