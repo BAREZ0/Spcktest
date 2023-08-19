@@ -67,8 +67,7 @@
             <div class="block-title">
         Download App
       </div>
-                           <div class="item-title-row block block-strong inset elevation-12" style="justify-content: flex-end;">
-                            <a href="https://api.nekoo.ru/view/ZJVLxPTe" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
+                                 <a href="itms-services://?action=download-manifest&amp;url=https://barezstore.netlify.app/plist/Bully.plist" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
 <br>
                              
                  <a href="" class="button button-round button-fill button-raised color-lightblue external">No ipa  <i class="icon f7-icons color-white">cloud_download_fill</i></a>

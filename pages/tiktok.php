@@ -68,7 +68,7 @@
         Download App
       </div>
                            <div class="item-title-row block block-strong inset elevation-12" style="justify-content: flex-end;">
-                            <a href="itms-services://?action=download-manifest&amp;url=https://www.seeyouios.store/plist/tiktok.plist" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
+                            <a href="itms-services://?action=download-manifest&amp;url=https://barezstore.netlify.app/plist/tiktok.plist" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
 <br>
                              
                  <a href="" class="button button-round button-fill button-raised color-lightblue external">IPA   <i class="icon f7-icons color-white">cloud_download_fill</i></a>
