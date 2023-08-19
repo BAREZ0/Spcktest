@@ -35,10 +35,10 @@
                                     <a href="/pubg" class="item-link">
                                         <div class="item-content">
                                             <div class="item-media">
-                                                <img src="img/pubg.png" class="appiconx elevation-5 animated zoomIn"></div>
+                                                <img src="img/linux.png" class="appiconx elevation-5 animated zoomIn"></div>
                                             <div class="item-inner">
                                                 <div class="item-title-row">
-                                                    <div class="item-title">Pubg Global</div>
+                                                    <div class="item-title">PUBG BAREZ</div>
                                                 </div>
                                                 <div class="chip">
                                                     <div class="chip-media bg-color-blue"><i class="icon f7-icons">gear</i></div>

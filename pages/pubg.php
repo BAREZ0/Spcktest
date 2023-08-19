@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>PUBG LINUX</title>
+  <title>PUBG BAREZ</title>
 </head>
 <body>
   <div class="page">
@@ -9,7 +9,7 @@
       <div class="navbar-inner sliding">
  
         <div class="title">
-          PUBG LINUX
+          PUBG BAREZ
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -36,7 +36,7 @@
           <i class="white-color f7-icons">arrow_left</i> Back  </a>
               </div>
               <div class="right">
-                <a href="http://www.facebook.com/share.php?u=https://t.me/B4rezStore" class="white-text external">
+                <a href="http://www.facebook.com/share.php?u=https://t.me/B4rezStoreVIP" class="white-text external">
                   <i class="white-color f7-icons">arrow_up_bin</i>
                   <br>
 
@@ -46,7 +46,7 @@
           </div>
             <center>
   <img src="./img/linux.png"  class="appicon elevation-5 animated zoomIn shadow" style="border-radius: 25%; height: 100px;width: 100px;">
-  <div style="font-size: 22px" class="white-color semibold">PUBG LINUX</div>
+  <div style="font-size: 22px" class="white-color semibold">PUBG BAREZ</div>
   <div style="font-size: 16px; opacity: 0,57;" class="white-color semibold">Games</div>
           
                
@@ -67,8 +67,8 @@
             <div class="block-title">
         Download App
       </div>
-                           <div class="item-title-row block block-strong inset elevation-12" style="justify-content: flex-end;">
-                            <a href="https://is.gd/PUBG_LINUX" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
+                         <div class="item-title-row block block-strong inset elevation-12" style="justify-content: flex-end;">
+                                                        <a href="itms-services://?action=download-manifest&amp;url=https://barezstore.netlify.app/plist/pubg.plist" class="button button-round button-fill button-raised color-green external"> ㅤGet <i class="icon f7-icons color-white">cloud_download_fill</i></a>
 <br>
                              
                  <a href="" class="button button-round button-fill button-raised color-lightblue external">IPA   <i class="icon f7-icons color-white">cloud_download_fill</i></a>
