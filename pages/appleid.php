@@ -27,8 +27,8 @@
         <center>
         <h1>AppleID</h1>
        <img  style="margin-top: 2%; border-radius: 5%;" width="200" class="elevation-12 animated zoomIn" src="./img/appleid.png"><br>
-       <p>Email: anseltra2368h@hotmail.com </p>
-       <p>Pass: 7787@TKserwanF@</p>
+       <p>Email: lock </p>
+       <p>Pass: lock</p>
          </center>
          </br>     
         </ul>

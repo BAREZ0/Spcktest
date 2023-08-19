@@ -31,25 +31,25 @@
           <br>
       VideoFX Live ❌
           <br> 
-          Esign  ✅
+          Esign  ❌
           <br>
-          Unc0ver  ❌
+          Unc0ver  ✅
           <br>
           Odyssey ❌
           <br>
-          PPSSPP ✅
+          PPSSPP ❌
           <br>
           ProCam ❌
           <br>
           Bolt ❌
           <br>
-          TikTok LRD  ❌
+          TikTok LRD  ✅
           <br>
-          Pubg Mobile ❌
+          Pubg Mobile ✅
           <br>
           Gta : San Andreas ✅
           <br> 
-          Org : 2020 ✅
+          Org : 2020 ❌
           <br>
           8 Ball Pool ❌
           <br>
